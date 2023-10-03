@@ -1,0 +1,12 @@
+{
+  "name": "bankist-app-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
